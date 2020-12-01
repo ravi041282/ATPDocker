@@ -13,3 +13,6 @@ To build a docker image,
 5. build Dockerfile - $docker build -t nodeapp .
 6. Launch container mapping local port to 3050 -- $docker run -i -p 3050:3050 -t nodeapp
 7. Launch browser on local m/c and check out app at http://localhost:3050
+
+>**Disclaimer**: This is a personal repository. All code, views or opinions, and any other content represented here are personal and belong solely to me and do not represent those of people, institutions or organizations that I may or may not be associated with in professional or personal capacity, unless explicitly stated.<br>
+<br>*Also **please note**, resources deployed using these example scripts do incur charges. Make sure to terminate the deployed resources/services after your tests, to save/minimize your bills*
